@@ -12,5 +12,5 @@ node {
            archive 'target/*.jar'
     }
 }
-    }
+    
 }
